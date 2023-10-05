@@ -1,1 +1,2 @@
 # fnfclicker
+yes
